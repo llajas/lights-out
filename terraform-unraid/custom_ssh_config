@@ -1,5 +1,0 @@
-Host 10.8.0.8
-    User root
-    IdentityFile /home/red/.ssh/id_ed25519
-    PreferredAuthentications publickey,password
-    StrictHostKeyChecking no
